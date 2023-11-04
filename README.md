@@ -6,7 +6,6 @@ Histogram pengolahan citra adalah representasi grafik yang menyatakan distribusi
 Library yang digunakan:
 
 - matplotlib.pyplot: Library ini digunakan untuk membuat visualisasi seperti plot, histogram, dan gambar. Library ini biasanya digunakan dalam analisis data dan penelitian ilmiah.
-- %matplotlib inline: Ini adalah perintah ajaib yang memungkinkan visualisasi yang dibuat menggunakan matplotlib.pyplot untuk ditampilkan secara langsung di buku catatan Jupyter.
 - numpy: Library ini digunakan untuk komputasi numerik dalam Python. Library ini menyediakan dukungan untuk array dan matriks multi-dimensi yang besar, serta koleksi fungsi matematika yang besar untuk beroperasi pada array ini.
 - cv2: Ini adalah library OpenCV, yang merupakan library visi komputer populer yang digunakan untuk pemrosesan gambar dan video. Library ini menyediakan berbagai fungsi untuk manipulasi gambar, deteksi fitur, pengenalan objek, dan banyak lagi.
 - skimage: Ini adalah library skimage, yang merupakan kumpulan algoritme untuk pemrosesan gambar. Ini menyediakan fungsi untuk pemfilteran gambar, segmentasi, ekstraksi fitur, dan banyak lagi.
